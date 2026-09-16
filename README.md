@@ -7,7 +7,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+CMPUT301 Lab 3 instructions: (https://ualberta-cmput301.github.io/labs/slides/2026-Lab-3-instructions.pdf)
+
 
 ## Verbal Collaboration
 
